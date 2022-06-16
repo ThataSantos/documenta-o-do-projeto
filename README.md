@@ -75,13 +75,10 @@ Número| Membro| Função |
 
 ### Registrar
 
->xxxxxxxxxxxxxxxxxxxxxx
+>Criar conta Pessoa Fisica
 >
->xxxxxxxxxxxxxxxxxxxxxx
+>Criar conta Pessoa Juridica
 >
->xxxxxxxxxxxxxxxxxxxxxx
->
-> 
 
 
 ### Conta pessoa física 
@@ -146,6 +143,8 @@ Número| Membro| Função |
 >   - Transferência
 >   - Pix
 >   - Investimentos
+>   - Pagamentos
+>   - Extrato
 >
 > 
 
