@@ -47,27 +47,30 @@
 
 ## Equipe - 
 
-Definir o papel de cada membro de acordo com o conhecimento individual
+Definir o papel de cada membro:
 
 Número| Membro| Função | 
 ------|---------|-------|
-01| xxxxxxxxxxxx|   xxxxxxxxx|
-02| xxxxxxxxxxxx|   xxxxxxxxx|
-03| xxxxxxxxxxxx|   xxxxxxxxx|
-04| xxxxxxxxxxxx|   xxxxxxxxx|
+01| Thabata A. Santos|   Git
+02| Arthur|   (CR)-UD UPDATE/DELETE|
+03| Erick|   (CR)-UD READ/CREAT|
+04| Rafel|   Main|
 
 
 ## Funcionalidades
 
 ### Login
 
->xxxxxxxxxxxxxxxxxxxxxx
+>Campos para logar na conta bancária
 >
->xxxxxxxxxxxxxxxxxxxxxx
+>Pessoa Fisica
 >
->xxxxxxxxxxxxxxxxxxxxxx
+>Pessoa Juridica
 >
-> [Ver detalhes técnicos](url do local onde está o markdown)
+>Usuário
+>
+>Senha
+>
 
 
 ### Registrar
@@ -78,7 +81,7 @@ Número| Membro| Função |
 >
 >xxxxxxxxxxxxxxxxxxxxxx
 >
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
 
 ### Conta pessoa física 
@@ -89,7 +92,7 @@ Número| Membro| Função |
 >
 >>xxxxxxxxxxxxxxxxxxxxxx
 >
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
 
 ### Conta pessoa Jurídica 
@@ -100,7 +103,7 @@ Número| Membro| Função |
 >
 >xxxxxxxxxxxxxxxxxxxxxx
 >
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
 
 ### Investimentos
@@ -111,7 +114,7 @@ Número| Membro| Função |
 >
 >xxxxxxxxxxxxxxxxxxxxxx
 >
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
 ### Sair
 
@@ -119,7 +122,7 @@ Número| Membro| Função |
 >
 >Remover dados do usuário da sessão
 
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
 ### Página Principal
 
@@ -132,20 +135,17 @@ Número| Membro| Função |
 >     - Login
 >       - Conta Pessoa Física
 >       - Conta Pessoa Jurídica 
->     - xxxxxxxxx
->   - xxxxxxxx
->   - xxxxxxxx
 >   - Botão de sair
 
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
 >
 >- Conteúdo principal:
 >   - Saudação ao usuário logado
->   - xxxxxxxxxxxxxxxxxxxxxxxxxxxx
->   - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
->   - xxxxxxxxxxxxxxxxxxx
->   - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+>   - Saldo
+>   - Transferência
+>   - Pix
+>   - Investimentos
 >
-> [Ver detalhes técnicos](url do local onde está o markdown)
+> 
 
